@@ -9,7 +9,7 @@ class App extends StatelessWidget {
     return MaterialApp(
 
       title:'Task manager App',
-      home: Home()
+      home: const Home()
     );
   }
 }
